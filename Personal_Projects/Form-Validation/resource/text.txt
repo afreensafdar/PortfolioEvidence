@@ -1,0 +1,8 @@
+https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/
+
+To download single folder
+1-go to desired folder.
+2-copy the url.
+3-go to downgit https://minhaskamal.github.io/DownGit/#/home
+4-paste the url in the tab.
+5-click download .
