@@ -38,24 +38,6 @@ This app creates a diary app using basic Auth where Tom writes all his deepest a
 
 ---
 
-## Demo
-
-![Demo] 
-
----
-
-## Screenshots
-![5.png](ScreenShots/1%20(5).png)
-
-![1.png](ScreenShots/1%20(1).png)
-
-![2.png](ScreenShots/1%20(2).png)
-
-![3.png](ScreenShots/1%20(3).png)
-
-![4.png](ScreenShots/1%20(4).png)
-
----
 
 ## Technologies
 
