@@ -40,23 +40,49 @@ Through To-Do-List application ,you can
 
 ---
 
-## Demo- The published To-do App
+## Demo
 
-![Demo]()
+<h1 align="center">
+   Tdo List Application .
+</h1>
+
+<div align="center">
+
+![Demo1](images/add.png)
+
+
+ A task application.
+    
+</div>
+
 
 
 ---
 
 ## Screenshots
-![5.png](ScreenShots/1%20(5).png)
+* Home Page:
 
-![1.png](ScreenShots/1%20(1).png)
+![1.png](./images/home.png)
 
-![2.png](ScreenShots/1%20(2).png)
+* Task Reminder Form Page:
 
-![3.png](ScreenShots/1%20(3).png)
+![5.png](./images/addtask.png)
 
-![4.png](ScreenShots/1%20(4).png)
+* View Task Page:
+
+![5.png](./images/viewtask.png)
+
+* Delete Page:
+
+![5.png](./images/delete.png)
+
+* Reset Page:
+
+![5.png](./images/reset.png)
+
+
+
+
 
 ---
 
