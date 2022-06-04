@@ -16,7 +16,7 @@ A simple To Do List Application that uses Javascript, HTML forms, and Bootstrap 
 ---
 
 ## Introduction
-Through To-Do-List application ,you can 
+Through Task List application ,you can 
 - Add task 
 - Update task
 - Delete task 
