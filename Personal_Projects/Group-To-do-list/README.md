@@ -1,4 +1,4 @@
-# To-Do-List-JavaScript 
+# Task List-JavaScript 
 A simple To Do List Application that uses Javascript, HTML forms, and Bootstrap styling.
 ---
 
@@ -43,7 +43,7 @@ Through To-Do-List application ,you can
 ## Demo
 
 <h1 align="center">
-   Tdo List Application .
+   Task List Application .
 </h1>
 
 <div align="center">
